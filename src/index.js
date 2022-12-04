@@ -1,0 +1,11 @@
+import './js/firebase/firebaseGoogleAuth';
+import './js/loader/loader';
+import './js/loacal-storage/local-storage';
+import './js/watched-queue/watched-queue';
+import './js/main.js/main-render';
+import './js/dark/dark';
+import './js/film.js/film-modal-window';
+import './js/trailer/trailer';
+import './js/upToTop/upToTop';
+import './js/pagination/pagination';
+import './js/footer/team-modal-window';
